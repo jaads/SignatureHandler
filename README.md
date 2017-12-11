@@ -14,4 +14,4 @@ Install Provider either statically within the code (as I did) or dynamically wit
 
 ## Adjustments 
 * Don't forget to change the `keyStorePath` and `keyAlias`
-* Other Brainpool algorithms can be found here: https://bouncycastle.org/specifications.html
+* Alternative algorithms provided by Bouncy Castle can be found here: https://bouncycastle.org/specifications.html
